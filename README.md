@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kamran Ali
 
-<!--
-**kamranaliyann/kamranaliyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Main ek Software Engineering ka student hoon. Mujhe coding aur naye technologies seekhne ka shauq hai. Main web development aur problem solving mein dilchaspi rakhta hoon.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python, JavaScript, C++ |
+| Tools | Git, GitHub, VS Code |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Project 1
+Yahan apne project ki description likhein...
+
+## Education
+SOFTWARE ENGINEERING, University OF ENGINEERING AND TECHNOLOGY LAHORE, 2025
+
+## Contact
+- Email: kamranaliyan126@example.com
+- LinkedIn: [Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@kamranaliyann](https://github.com/kamranaliyann)
